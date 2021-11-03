@@ -28,7 +28,7 @@
     "say": "^0.16.0",
     "speak-tts": "^2.0.8",
     "text-to-speech-js": "^1.1.9",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "xmlbuilder": "^13.0.2"
   }
 }
